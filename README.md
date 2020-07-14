@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**philo-shoby/Philo-Shoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am ✨ Philo-Shoby ✨ 
 
-Here are some ideas to get you started:
+I am pursuing Masters in Computer Application in Vellore Institute of Technology. Here are few things about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Artificial Intelligence and Cloud Computing
+
+- 👯 I’m looking to collaborate on machine learning projects
+
+- 🤔 I’m looking for help with Natural Language Processing projects
+
+- 📫 How to reach me: shoby.philo@gmail.com | www.linkedin.com/in/philo-shoby
+
+- 😄 Pronouns: She/her
