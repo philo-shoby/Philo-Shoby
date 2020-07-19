@@ -6,7 +6,7 @@ I am pursuing Masters in Computer Application in Vellore Institute of Technology
 
 - 🌱 I’m currently learning Artificial Intelligence and Cloud Computing
 
-- 👯 I’m looking to collaborate on machine learning projects
+- 👯 I’m looking to collaborate on machine learning projects integrated with cloud.
 
 - 🤔 I’m looking for help with Natural Language Processing projects
 
