@@ -2,7 +2,7 @@
 
 I am ✨ Philo-Shoby ✨ 
 
-I am working in Tata Consultaancy Services as Software Developer. Here are few things about me:
+I am working in Tata Consultancy Services as Software Developer. Here are few things about me:
 
 - 🌱 I’m currently learning Full Stack development, Cloud Computing and Machine Learning
 
