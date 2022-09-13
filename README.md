@@ -2,9 +2,9 @@
 
 I am ✨ Philo-Shoby ✨ 
 
-I am pursuing Masters in Computer Application in Vellore Institute of Technology. Here are few things about me:
+I am working in Tata Consultaancy Services as Software Developer. Here are few things about me:
 
-- 🌱 I’m currently learning Cloud Computing, Full Stack Development and Machine Learning
+- 🌱 I’m currently learning Full Stack development, Cloud Computing and Machine Learning
 
 - 👯 I’m looking to collaborate on machine learning and mobile app projects integrated with cloud.
 
